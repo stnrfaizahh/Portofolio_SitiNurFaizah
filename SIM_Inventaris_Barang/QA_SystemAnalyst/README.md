@@ -1,1 +1,1 @@
-
+Sebagai System Analyst, saya bertanggung jawab mengumpulkan kebutuhan pengguna, menganalisis proses kerja, membuat model sistem (Use Case, BPMN, ERD), melakukan validasi dengan stakeholder, serta memberikan pelatihan sistem. Dokumentasi ini digunakan oleh developer sebagai acuan pembuatan sistem dan oleh QA sebagai acuan pengujian.
