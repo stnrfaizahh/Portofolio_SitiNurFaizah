@@ -45,7 +45,9 @@ Dokumen-dokumen ini menggambarkan proses bisnis, arsitektur sistem, alur data, d
 + **8. UAT (User Acceptance Testing)**
    Berisi skenario uji penerimaan pengguna (User Acceptance Test) untuk memastikan fitur berjalan sesuai kebutuhan bisnis. Termasuk test scenario, expected result, actual result, dan status uji.
 ---
-
+ **9. Estimasi Pengerjaan Aplikasi**
+    Berisi penjelasan mengenai detail fitur, timeline estimasi pengerjaan, dan juga alokasi tenaga kerja yang dibutuhkan.
+ 
 ## 📎 Catatan
 Semua dokumen di dalam folder ini merupakan bagian dari analisis sistem pada proyek **SIM Inventaris Barang** dan dibuat untuk kebutuhan portofolio profesional.
 
